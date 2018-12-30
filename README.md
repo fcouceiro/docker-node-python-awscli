@@ -1,2 +1,3 @@
-# docker-node-python-awscli
-Node.js v8.11.4, python 2.7.12 and aws cli pre-installed
+# Node.js, python and aws cli pre-installed, based on [beevelop/nodejs](https://github.com/beevelop/docker-nodejs)
+- Node: v8.11.4
+- Python: 2.7.12
